@@ -1,0 +1,57 @@
+1.10, 2009-04-28
+- FIX: Another shot at fixing the rather random causing of disconnects...
+
+
+1.9, 2009-04-15
+- FIX: Hopefully fixed the rather random causing of disconnects. (Item link format
+       was changed in 2.0, I didn't notice. My bad.)
+
+
+1.8, 2007-04-04
+- FIX: Changes to make it work with 2.0 and TBC. Thanks to KeruptisSaDiablo at Curse
+       for suggesting a fix, saved me a bit of work, hehe. :)
+
+
+1.7, 2006-06-25
+- ADD: Some new Dwarven replacements.
+- CHG: When chance is set to 10, completely override randomness.
+- FIX: Sometimes when replacing phrases, spaces before and/or after them vanished.
+
+
+1.6, 2006-06-03
+- FIX: Troll lingo bug ("spare" -> "spbe", won't happen anymore) 
+- FIX: Stupid Dwarven/Troll lingo bug ("King" -> "Kin'", "strong" -> "stron'")
+- FIX: More lingo replacement refinements for both languages.
+
+
+1.5, 2006-03-21
+- ADD: Some new Dwarven replacements.
+- ADD: New slash command: "/dwarvenizer toggle list"
+- CHG: Some Dwarven lingo refinements to (among other things) avoid phrases like "o' 'em".
+- CHG: Uppercase "H"s aren't replaced anymore.
+- CHG: Minor output cleanup.
+- CHG: Stats, info etc. are printed as single lines now.
+
+
+1.4, 2006-03-07
+- FIX: Disconnection problems when linking items.
+- FIX: Acronyms are left alone now.
+
+
+1.3, 2006-03-05
+- FIX: Processing was partially broken and appeared to be stuck on low probability.
+- ADD: More solid support for non-english letters.
+
+
+1.2, 2006-03-04
+- ADD: Added toggles to enable/disable Dwarvenizer/Trollizer for particular channels.
+- ADD: Nordic letters should be correctly recognized now. (I hope.)
+- Fix for the occasional "slipping of the tongue" when probability was set 0.
+
+
+1.1, 2006-03-03
+- Added Troll slang, type "/trollizer" for info.
+
+
+1.0, 2006-03-01
+- Initial release.

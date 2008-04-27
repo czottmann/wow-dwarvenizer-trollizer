@@ -1,0 +1,5 @@
+## Interface: 20003
+## Title: Dwarvenizer / Trollizer 1.10
+## Notes: Translates/mutilates your written word into something more Dwarvish/Trollish. Oh aye! I mean, ya, mon! -- Type /dwarvenizer or /trollizer in your chatbox for explanations. -- Author: Param (A) of Steamwheedle Cartel (EU)
+## SavedVariables: DwarvenizerSettings
+Dwarvenizer.xml
